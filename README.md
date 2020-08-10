@@ -12,6 +12,8 @@ What I used in the project:
                Microsoft.ReportingServices.ReportViewerControl.Winforms
                Microsoft.ReportingViewer.Commonv12 -> NuGet Packages
                
+               Reports - export excel/pdf
+               
                
 4. Databases Connection
  public Connect()
@@ -21,3 +23,4 @@ What I used in the project:
 
 
 Some images from Project
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SQL.png)
