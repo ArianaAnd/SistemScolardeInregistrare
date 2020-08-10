@@ -26,3 +26,6 @@ Some images from Project
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SQL.png)
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/FormsJPG.JPG)
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SolutionExplorer.JPG)
+
+
+[![Watch the video](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/bandicam%202020-08-10%2018-24-22-483.mp4)
