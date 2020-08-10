@@ -25,4 +25,4 @@ What I used in the project:
 Some images from Project
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SQL.png)
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/FormsJPG.JPG)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/Solution Explorer.JPG)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SolutionExplorer.JPG)
