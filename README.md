@@ -24,9 +24,9 @@ What I used in the project:
 
 Some images from Project
 
-![1](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/1.png)
+![1](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/1.JPG)
 
-![2](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/2.png)
+![2](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/2.JPG)
 
 ![3](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/3.png)
 
