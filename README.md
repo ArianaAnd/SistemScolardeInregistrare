@@ -23,9 +23,20 @@ What I used in the project:
 
 
 Some images from Project
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SQL.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/1.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/2.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/3.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/4.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/5.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/6.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/7.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/8.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/9.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/10.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/11.png)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/12.png)
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/FormsJPG.JPG)
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SolutionExplorer.JPG)
 
 
-[![Watch the video](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/bandicam%202020-08-10%2018-24-22-483.mp4)
+
