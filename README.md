@@ -23,19 +23,19 @@ What I used in the project:
 
 
 Some images from Project
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/1.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/2.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/3.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/4.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/5.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/6.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/7.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/8.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/9.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/10.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/11.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/12.png)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/FormsJPG.JPG)
+![Studenti](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/1.png)
+![Profesori](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/2.png)
+![S](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/3.png)
+![QL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/4.png)
+![SQ](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/5.png)
+![SL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/6.png)
+![Q](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/7.png)
+![imagine](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/8.png)
+![imag](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/9.png)
+![ceva](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/10.png)
+![altceva](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/11.png)
+![incaceva](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/12.png)
+![da](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/FormsJPG.JPG)
 ![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SolutionExplorer.JPG)
 
 
