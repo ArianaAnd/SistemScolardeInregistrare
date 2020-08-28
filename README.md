@@ -37,7 +37,8 @@ Some images from Project
 ![10](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/10.JPG)
 ![11](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/11.JPG)
 ![12](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/12.JPG)
-![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SolutionExplorer.png)
+![SolutionEX](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/Solution%20Explorer.JPG)
+![SQL](https://github.com/ArianaAnd/SistemScolardeInregistrare/blob/master/SQL.png)
 
 
 
